@@ -1,0 +1,25 @@
+.add-cont{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  align-items: center;
+}
+.add-cont form{
+    border: 1px solid;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  width: 50%;
+  height: 77%;
+  box-shadow: 1px 1px 3px 0px red;
+
+}
+.add-cont input{
+  width :200px; 
+}
+.add-sub{
+ top:80% !important ;
+ left:46% !important;
+}

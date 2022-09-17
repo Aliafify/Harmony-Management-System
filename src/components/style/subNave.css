@@ -1,0 +1,55 @@
+.subnav{
+    width: 100%;
+    height: 8vh;
+    background-color: #3A444E;
+    box-shadow: 2px 2px 4px 1px #CBA980;
+    border-radius: 4px;
+     padding: 0px;
+}
+.subnav-nav{
+   border: 1px solid white;
+   height: 100%;
+   border-radius: 4px;
+   
+}
+.h-menu{
+    margin: 0px;
+    list-style: none;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border:1px solid red
+}
+.h-menu button{
+    width: 10vw;
+    height: 100%;
+   font-size: 1.5vw;
+   border-radius: 4px;
+   padding: 3px;
+   background-color: rgba(0, 0, 0, 0.473);
+   color: white;
+   box-shadow: 1px 1px 2px 0px ;
+}
+.h-menu button:hover,.link:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+} 
+.smenu-item{
+    border: 1px solid red;
+    width: 10vw;
+    height: 5vh;
+
+
+}   
+.link{
+text-decoration: none;
+width: 16vw;
+
+border-radius: 4px;
+padding: 3px;
+color: white;
+}

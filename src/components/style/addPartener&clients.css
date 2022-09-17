@@ -1,0 +1,106 @@
+/* shared */
+.tex,.num {
+    width: 100%;
+    height: 25px;
+}
+
+/* .email{
+   width: 15%;
+}
+input[name=username],.address{
+   top:5%;
+   right: 5%;
+
+}
+.create-form input[name=name]{
+    top:5%;
+    right: 35%;
+ }
+ .create-form input[name=password],.nickname{
+    top:5%;
+    right: 65%;
+ }
+ .create-form input[name=email]{
+    top:15%;
+    right: 5%;
+ }
+ input[name=phone1]{
+    top:15%;
+    right: 35%;
+ }
+ input[name=phone2]{
+   top:15%;
+   right:55%;
+}
+input[name=phone3]{
+   top:15%;
+   right: 75%;
+}
+ 
+ 
+ input[name=code],.advance{
+   top:25%;
+   right: 55%;
+ }
+ input[name=identification]{
+    top:25%;
+    right: 5%;
+ }
+ input[name=finance],.period{
+    top:25%;
+    right: 35%;
+ }
+ input[name=gain],.excess{
+    top:25%;
+    right: 75%;
+ } */
+ .create-form h3{
+  font-size: 1vw;  
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  right: 5%;
+  background-color:  #CBA980;
+  color: aliceblue;
+  padding:5px 5% 5px;
+  margin-top: 3%;
+ }
+ .choose{
+    margin-top: 3%;
+    position: absolute;
+    top:55%;
+    right: 15%;
+    width: 80%;
+ }
+ .choose input{
+    position: absolute;
+    right:20%;
+    cursor: pointer;
+ }
+ .create-form input[type=submit]{
+    position: absolute;
+    top:60vh;
+    left: 2vw;
+    width: 10%;
+    height: 25px;
+    background-color: #CBA980;
+    border: 1px solid;
+    font-size: 18px;
+ }
+ .create-form input[type=submit]:hover{
+    background-color: transparent;
+    color: black;
+    border: 0px;
+    cursor: pointer;
+ }
+ .create-form{
+      height: 100% ;
+ }
+ .inputes{
+   height: 50%;
+ }
+ .col{
+   height: 100%;
+   width: 25%;
+   padding: 7px;
+ }

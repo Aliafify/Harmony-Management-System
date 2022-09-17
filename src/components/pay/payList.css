@@ -1,0 +1,24 @@
+.name-list{
+    position: fixed;
+    height: 90vh;
+    width: 20vw;
+    bottom: 5px;
+    left:5px;
+    box-shadow: 2px 2px 5px 1px black;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.781);
+    z-index: 100;
+}
+.ico{
+    float: left;
+    cursor: pointer;
+    box-shadow: 1px 1px 2px 1px #fff;
+}
+.name-list >ol li {
+    width: 90%;
+    height: 40px;
+    padding: 5px 0 0 5px;
+    margin-bottom: 4vh;
+}

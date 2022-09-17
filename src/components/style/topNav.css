@@ -1,0 +1,9 @@
+.topNav{
+    width: 85%;
+    height: 10%;
+    position:absolute;
+    top:0px;
+    left: 0px;
+    background-color: #CBA980;
+    direction: rtl;
+}
